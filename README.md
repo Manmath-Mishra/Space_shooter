@@ -6,5 +6,5 @@ In order to make this file run follow the below steps:-
 4. Change that path according to the installed path in your device.
 5. Please install all the modules mentioned in the first line of the **import** statement in the code.
 
-P.S. - If you want to skip all these steps, directly run the .exe folder provided..
+
 Enjoy gaming and peace out.
